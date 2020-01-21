@@ -9,7 +9,7 @@ public class TbItem {
 
     private String sellPoint;
 
-    private Long price;
+    private Long price;//?价格为啥不转成double，添加商品价格出错了
 
     private Integer num;
 
